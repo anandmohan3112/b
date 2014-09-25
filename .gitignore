@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+int a,b,s;
+printf("\n ENTER TWO NO FOR AADING");
+scanf("%d %d",&a,&b);
+s=a+b;
+//printf("\n SUM= %d",s);
+printf("\n SUM= %d",a+b);
+}
